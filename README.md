@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vansh V</h1>
 <h3 align="center">Apps that work, dashboards that explain, UI that feels smooth — I make it all click.</h3>
 
-- 🔭 I’m currently working on **YoursTruely, A React Native based mobile application**
+- 🔭 I’m currently working on: **YoursTruely, A React Native based mobile application**
 
-- 🌱 I’m currently learning **React Native, Tableau**
+- 🌱 I’m currently learning: **React Native, Tableau**
 
-- 💬 Ask me about **iOS, SQL, UI/UX**
+- 💬 Ask me about: **iOS, SQL, UI/UX**
 
-- 📫 How to reach me **vanshv0920@gmail.com**
+- 📫 How to reach me: **vanshv0920@gmail.com**
 
-- 📄 Know about my experiences [Resume_link](https://drive.google.com/file/d/10YIUaCH0Y7tEufFAyJog-gPUpjBLvWfF/view?usp=share_link)
+- 📄 Know about my experiences: [Resume_link](https://drive.google.com/file/d/10YIUaCH0Y7tEufFAyJog-gPUpjBLvWfF/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
