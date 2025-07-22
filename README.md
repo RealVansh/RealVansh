@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vanshv0920@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10YIUaCH0Y7tEufFAyJog-gPUpjBLvWfF/view?usp=share_link](https://drive.google.com/file/d/10YIUaCH0Y7tEufFAyJog-gPUpjBLvWfF/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/10YIUaCH0Y7tEufFAyJog-gPUpjBLvWfF/view?usp=share_link](Resume_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
